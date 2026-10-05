@@ -1,0 +1,9 @@
+Open a terminal in this folder.
+Run: npx vercel login
+Run: npx vercel link --project shinobi-designer
+Run: npx vercel --prod
+
+Framework: Other
+Build command: node build-reference.mjs
+Output directory: dist
+No environment variables required.
